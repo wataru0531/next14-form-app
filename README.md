@@ -38,5 +38,3 @@ https://www.commte.co.jp/learn-nextjs/Zod
 
 - メールをWebアプリケーションから送信したいならResendがおすすめ
 https://reffect.co.jp/javascript/resend
-
-- 
